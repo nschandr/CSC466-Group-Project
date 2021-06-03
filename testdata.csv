@@ -1,0 +1,17 @@
+user_input,tag
+Greetings,greeting
+Good day,greeting
+What can you do?,options
+How do we begin?,info_gain
+I'm a senior. Help me decide what to take for the fall quarter.,senior_fall
+What technical electives are there?,technical_electives
+I'm into gaming development. What game development electives can I take?,game_dev
+What are the prerequisites for these classes.,prereqs
+What are the prerequisites for CSC 480?,101/103_202js_prereq
+What are the prereqs for CSC 225?,csc_202_prereq
+What classes do I need to take CSC 371?,101/103_202js_prereq
+What do I need to take CSC 321?,csc_357_prereq
+...,noanswer
+I'm done,complete
+Thank you for the help!,thanks
+Bye bye,goodbye
