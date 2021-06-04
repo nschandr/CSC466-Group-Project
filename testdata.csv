@@ -1,17 +1,17 @@
 user_input,tag
 Greetings,greeting
-Hey there,greeting
+Good,doing_good
 What can you do?,options
 How do we begin?,info_gain
-I am a Senior in my fall quarter,senior_fall
+Senior, Fall quarter,senior_fall
 What technical electives are there?,technical_electives
 I'm into gaming development. What game development electives can I take?,game_dev
 What are the prerequisites for these classes?,prereqs
 CSC 480?,101/103_202js_prereq
-CSC 225?,csc_202_prereq
+CSC 225?,csc202_prereq
 CSC 371?,101/103_202js_prereq
-CSC 321?,csc_357_prereq
-...,noanswer
+CSC 321?,csc357_prereq
+ ,noanswer
 I'm done,complete
 Thank you for the help!,thanks
 Bye,goodbye
