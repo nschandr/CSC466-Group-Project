@@ -1,7 +1,7 @@
 user_input,tag
 Greetings,greeting
 Good day,greeting
-What do you do?,options
+What can you do?,options
 How do we begin?,info_gain
 I'm a senior. Help me decide what to take for the fall quarter.,senior_fall
 What technical electives are there?,technical_electives
